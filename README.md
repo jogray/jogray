@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jogray
-- 👀 I’m interested in C/C++
-- 🌱 I’m currently learning Git and Vim in Windows
+- 👀 I’m interested in C/C++, python, docker
+- 🌱 I’m currently learning docker on windows
 - 💞️ I’m looking to collaborate on (nothing)
 - 📫 How to reach me 3417309636@qq.com
 - 😄 Pronouns: ...
